@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+__pycache__/
+best_models/
+*.csv

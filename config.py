@@ -1,0 +1,8 @@
+# Hyperparameters
+NUM_EPOCHS = 5
+BATCH_SIZE = 24
+IM_SIZE = 272
+NUM_EXPERIMENTS = 5
+PATIENCE = 10
+DATASET_NAME = "deep_weeds"
+USE_RESAMPLING = False
